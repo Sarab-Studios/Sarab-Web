@@ -16,6 +16,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  checkout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v7
   # Build job
   build:
     # Specify runner +  build & upload the static files as an artifact
