@@ -1,7 +1,7 @@
 export const config = /*json-start*/{
-  "mainAssemblyName": "ProjectSarab.web2.dll",
+  "mainAssemblyName": "ProjectSarab.web.dll",
   "resources": {
-    "hash": "sha256-VHqOhejrUhzwb/Pj8TBQ/Jj5rIqN09uAjDbDfsWQKIs=",
+    "hash": "sha256-gvDCsfakw13uAJXpws1z+4fVCBDx9uo3y2U2XA+VgTY=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.js"
@@ -64,9 +64,9 @@ export const config = /*json-start*/{
         "hash": "sha256-MAfRWYg+byWHuZhWuNJKO+TnNKoSshATCQDgkmp6fHw="
       },
       {
-        "virtualPath": "ProjectSarab.web2.wasm",
-        "name": "ProjectSarab.web2.wasm",
-        "hash": "sha256-Z2PCK6V3ULPUQpvoOtXgwPzTyPmsItnzuV2FtK5tO6U="
+        "virtualPath": "ProjectSarab.web.wasm",
+        "name": "ProjectSarab.web.wasm",
+        "hash": "sha256-4Q88+NonV8C3cBQkj3l7C+6VJfWq8utbcT5jAkL2xlI="
       },
       {
         "virtualPath": "System.Collections.Concurrent.wasm",

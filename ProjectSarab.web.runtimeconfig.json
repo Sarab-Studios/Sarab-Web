@@ -40,7 +40,7 @@
     "wasmHostProperties": {
       "runtimeArgs": [],
       "perHostConfig": [],
-      "mainAssembly": "ProjectSarab.web2.dll"
+      "mainAssembly": "ProjectSarab.web.dll"
     }
   }
 }
